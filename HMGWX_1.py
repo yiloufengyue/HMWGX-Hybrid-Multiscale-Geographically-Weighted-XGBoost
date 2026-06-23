@@ -1,7 +1,7 @@
 """
 Code for HMGWX
-Author: ***
-Date: April 08, 2026
+Author: Fan Gao, gaofancj@gmail.com
+Date: June 23, 2026
 """
 
 import os
